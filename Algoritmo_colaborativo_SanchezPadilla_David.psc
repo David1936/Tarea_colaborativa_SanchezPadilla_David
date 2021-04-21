@@ -10,7 +10,7 @@ Algoritmo Operación
 	
 	Escribir "El número aleatorio es: ", C // INGRESO UN NÚMERO ALEATORIO QUE ES 2 Y LO LLAMAREMOS C
 	
-	D <- RAIZ ((A+B)/C) 
+	D <- RAIZ ((A*B)/C) 
 	
 	
 	Escribir "El resultado es: ", REDON(D) // CALCULAMOS EL RESULTADO QUE ES APROXIMADAMENTE 2
